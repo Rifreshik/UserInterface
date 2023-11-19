@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Derevianco" size="10.000000 12.657602" />
+    <ImageTarget name="Page1" size="10.000000 14.138171" />
+    <ImageTarget name="Page11" size="10.000000 7.072406" />
+    <ImageTarget name="Page10" size="10.000000 7.072406" />
+    <ImageTarget name="Page9" size="10.000000 7.072406" />
+    <ImageTarget name="Page8" size="10.000000 7.072406" />
+    <ImageTarget name="Page7" size="10.000000 7.072406" />
+    <ImageTarget name="Page6" size="10.000000 7.072406" />
+    <ImageTarget name="Page5" size="10.000000 14.139460" />
+    <ImageTarget name="Page4" size="10.000000 14.139460" />
+    <ImageTarget name="Page3" size="10.000000 14.139460" />
+    <ImageTarget name="Page2" size="10.000000 10.014830" />
+  </Tracking>
+</QCARConfig>
